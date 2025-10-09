@@ -1,0 +1,7 @@
+SCORE|5640
+BADGES|First Point;Completed First SimpleGoal;Level-1;Level-2;Level-6
+Simple|Walk|Go for a walk|40|1
+Eternal|Study|Study|50|2
+Checklist|Cook|Cook|Cook for family|50|2|2|200
+Eternal|Clean|Clean the house|600|2
+Eternal|Church|Go to church|4000|1
